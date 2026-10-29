@@ -1,46 +1,21 @@
-# 👋 Olá, eu sou o Guilherme Cavazzani  
+# Guilherme Abreu Cavazzani
 
-🎓 Estudante de **Engenharia Elétrica** na UFSJ  
-⚡ Apaixonado por **programação, eletrônica, automação e desenvolvimento de software**  
+Estudante de Engenharia Elétrica na UFSJ. Desenvolvo software em Rust e Python, com foco em ferramentas para agentes de IA, sistemas multiagente e motores de jogo, e mantenho o interesse em eletrônica, automação e sistemas de energia.
 
----
+## Projetos
 
-## 🚀 Sobre mim
-- 💻 Desenvolvedor com foco em **Python** e **Flutter**  
-- 📱 Experiência em criação de **apps móveis** (produtividade, blocos de notas, gestão financeira)  
-- 🎮 Interesses em **simulações, jogos 2D e editores visuais** com `pygame`, `pymunk` e `PySide6`  
-- 🔌 Projetos em **circuitos elétricos, filtros analógicos/digitais e sistemas de energia**  
-- 🌱 Sempre aprendendo mais sobre **IoT, ESP32, automação e processamento de sinais**  
+- [paper-trace](https://github.com/Gu1L3RM3/paper-trace): assistente de pesquisa multiagente em Python. Planeja consultas, busca artigos no OpenAlex, sintetiza uma resposta citando apenas os artigos recuperados e verifica o suporte de cada afirmação nos resumos.
+- [projectgui](https://github.com/Gu1L3RM3/projectgui): gerenciador local de projetos em Rust, com CLI, servidor MCP para agentes de programação e interface desktop. Um único arquivo SQLite, sem nuvem.
+- [guitrator-apk](https://github.com/Gu1L3RM3/guitrator-apk): extrai APKs de um celular Android via USB ou os baixa do F-Droid. Interface gráfica, CLI e servidor MCP, em Rust.
+- [Lighthouse_of_Alexandria](https://github.com/Gu1L3RM3/Lighthouse_of_Alexandria): aprendizado baseado em jogo para circuitos elétricos, em Python.
+- [Guigine](https://github.com/Gu1L3RM3/Guigine): motor de jogo em Python com arquitetura ECS (Entity, Component, System).
 
----
+## Tecnologias
 
-## 🛠️ Tecnologias & Ferramentas
+- Linguagens: Rust, Python, Dart, C, MATLAB
+- Ferramentas: Flutter, Firebase, Pygame, PySide6, SQLite
+- Interesses: agentes de IA e MCP, IoT com ESP32, processamento de sinais, circuitos e filtros analógicos e digitais
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0e?style=for-the-badge&logoColor=white)
+## Contato
 
-### Frameworks e Ferramentas
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu1L3RM3&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu1L3RM3&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-abreu-cavazzani-a444032aa/)  
-
-
----
-
-✨ “Unindo Engenharia Elétrica ⚡ e Programação 💻 para criar soluções criativas e funcionais.”
+[LinkedIn](https://www.linkedin.com/in/guilherme-abreu-cavazzani-a444032aa/)
